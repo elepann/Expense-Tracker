@@ -1,6 +1,6 @@
-📝 TASKEL - Task Tracker CLI
+📝 Expense Tracker CLI
 ============================
-TASKEL (Task-CLI) adalah aplikasi manajemen pengeluaran berbasis terminal yang efisien dan ringan. Dibangun menggunakan Node.js, aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada pengeluaran mereka langsung dari command line.
+Expense-Tracker adalah aplikasi manajemen pengeluaran berbasis terminal yang efisien dan ringan. Dibangun menggunakan Node.js, aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada pengeluaran mereka langsung dari command line.
 
 🚀 Fitur Utama
 ==============
