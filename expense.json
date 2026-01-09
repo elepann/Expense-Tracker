@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "Wed Jan 07",
+    "description": "jajan",
+    "amount": 20
+  },
+  {
+    "id": 4,
+    "date": "Fri Jan 09",
+    "description": "jajan sore",
+    "amount": "100"
+  },
+  {
+    "id": 5,
+    "date": "Fri Jan 09",
+    "description": "beli ketoprakk sore sore",
+    "amount": "15"
+  },
+  {
+    "id": 6,
+    "date": "Fri Jan 09",
+    "description": "beli skincare",
+    "amount": "50"
+  },
+  {
+    "id": 7,
+    "date": "Fri Jan 09",
+    "description": "beli rokok",
+    "amount": "36"
+  }
+]
